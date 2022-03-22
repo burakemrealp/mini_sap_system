@@ -3,7 +3,9 @@ A mini sap system software that calculates the weighted grade, letter grade and 
 
 
 !!!DATA!!!
+
 In this case, the format of our data must be as below;
+
 input_dict = {'student1': {'lab': [100, 100, 0, 100, 80, 60, 80, 90, 100, 10], 'homework': [100, 20, 0, 75, 80], 'midterm': 60, 'final': 80},
 'student2': {'lab': [100, 100, 0, 100, 80, 60, 80, 90, 20, 10], 'homework': [100, 0, 0, 75, 80], 'midterm': 50, 'final': 30},
 'student3': {'lab': [0, 0, 0, 100, 80, 60, 80, 90, 20, 10], 'homework': [0, 0, 0, 100, 0], 'midterm': 50, 'final': 20},
